@@ -1,4 +1,5 @@
 class Client:
+
     def __init__(self, userName):
         self.userName = userName
         self.rating = 4.62
